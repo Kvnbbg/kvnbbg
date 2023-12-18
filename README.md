@@ -7,7 +7,7 @@
 
 ---
 
-<a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/kvnbbg/kvnbbg/blob/master/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
+<a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/kvnbbg/kvnbbg/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
 ---
 
