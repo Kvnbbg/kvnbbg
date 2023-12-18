@@ -3,7 +3,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/techandstream?style=social)](https://twitter.com/techandstream)
 [![Linkedin: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
 [![GitHub followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
-[![Visits Badge](https://badges.pufler.dev/visits/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![Visits Badge](https://badges.pufler.dev/visits/kvnbbg/)](https://github.com/kvnbbg)
+
+---
+
+<a href="https://app.daily.dev/kevinmarville"><img src="https://api.daily.dev/devcards/130645ba57a64172bee26319c72db0a5.png?r=zea" width="400" alt="Kevin Marville's Dev Card"/></a>
 
 ---
 
@@ -11,7 +15,7 @@
 
 - 🔭 I’m currently working on [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
 - 🌱 I’m currently learning Flask and Shell scripting
-- 👯 I’m looking to collaborate on [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
+- 👯 I’m looking to collaborate on [shell](https://github.com/Kvnbbg/ubiquitous-fishstick)
 - 💬 Ask me about tech, robots, or card games!
 - 📫 How to reach me: kvnbbg@gmail.com
 - 😄 Pronouns: Kev or Kvn
