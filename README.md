@@ -7,7 +7,7 @@
 
 ---
 
-<a href="https://app.daily.dev/kevinmarville"><img src="https://api.daily.dev/devcards/130645ba57a64172bee26319c72db0a5.png?r=zea" width="400" alt="Kevin Marville's Dev Card"/></a>
+<a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/kvnbbg/kvnbbg/blob/master/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
 ---
 
@@ -33,5 +33,7 @@
 ### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog Post Portfolio](https://kvnbbg-creations.io)
+- ([Links](https://allmylinks.com/kevin-marville))
 <!-- BLOG-POST-LIST:END -->
+
+🇮🇱 🇮🇹 🇵🇭 🇳🇱 🇬🇧 🇭🇷 🇱🇹 🇦🇺 🇵🇱 🇷🇴 🇳🇴 🇦🇱 🇸🇰 🇵🇹
