@@ -35,4 +35,4 @@
 - ([Links](https://allmylinks.com/kevin-marville))
 <!-- BLOG-POST-LIST:END -->
 
-🇮🇱 🇮🇹 🇵🇭 🇳🇱 🇬🇧 🇭🇷 🇱🇹 🇦🇺 🇵🇱 🇷🇴 🇳🇴 🇦🇱 🇸🇰 🇵🇹
+🇮🇹 🇵🇭 🇳🇱 🇬🇧 🇭🇷 🇱🇹 🇦🇺 🇵🇱 🇷🇴 🇳🇴 🇦🇱 🇸🇰 🇵🇹 🇫🇷
