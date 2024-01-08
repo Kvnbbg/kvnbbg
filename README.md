@@ -1,38 +1,70 @@
-# Hi there, I'm Kevin Marville! 👋
+# Greetings! I'm K J - The Tech Explorer! 👋🚀
+
+📍 **Location:** Transitioned from the beautiful Martinique archipelago to France, pursuing the Iron Man dream in the tech world 💻⚙️  
+🇫🇷 **Languages:** Fluent in French, but prefer conversing in English 🗣️  
+💡 **Passions:** Chess ♟️, card games 🎴, tech 💻, math ➕, and anything that fuels my curiosity!  
+
+## GitHub Badges 🛡️
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/techandstream?style=social)](https://twitter.com/techandstream)
-[![Linkedin: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
-[![GitHub followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
-[![Visits Badge](https://badges.pufler.dev/visits/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![LinkedIn: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
+[![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
+[![Visits](https://badges.pufler.dev/visits/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
 
----
-<a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
-
----
-
-## I'm Passionate about Tech and Robotics!
-
-- 🔭 I’m currently working on [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
-- 🌱 I’m currently learning Flask and Shell scripting
-- 👯 I’m looking to collaborate on [shell](https://github.com/Kvnbbg/ubiquitous-fishstick)
-- 💬 Ask me about tech, robots, or card games!
-- 📫 How to reach me: kvnbbg@gmail.com
-- 😄 Pronouns: Kev or Kvn
-- ⚡ Fun fact: I enjoy playing card games!
+[![GitHub last commit](https://img.shields.io/github/last-commit/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![GitHub issues](https://img.shields.io/github/issues/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/stargazers)
 
 ---
 
-### Languages & Tools:
+## About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)](https://github.com/kvnbbg)
-[![Kevin Marville's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)](https://github.com/kvnbbg)
+Salut! I'm K J, short for Kevin Josue Marville. Embracing technology since my childhood, I craft applications aiming to impact daily lives.
+
+💻 **First Steps:** Started programming with "Add go to add" in Visual Basic, born from the island camaraderie.  
+🔌 **Tech Origins:** Explored computing on ancient machines tangled in cables.  
+📚 **Education:** Focused on Cybersecurity studies in France, nestled in the Rhône-Alpes basin.  
+🚀 **Dream:** To channel Iron Man's spirit by serving through impactful applications.
 
 ---
 
-### 📕 Latest Blog Posts:
+## Connect with Me 🤝
 
-<!-- BLOG-POST-LIST:START -->
-- ([Links](https://allmylinks.com/kevin-marville))
-<!-- BLOG-POST-LIST:END -->
+🔗 **Socials:** [Twitter](https://twitter.com/techandstream), [LinkedIn](https://www.linkedin.com/in/kvnbbg/), [GitHub](https://github.com/kvnbbg)  
+📧 **Email:** kvnbbg@gmail.com (entertainment), kevinmarville@gmail.com (professional)  
+🎶 **Music:** [SoundCloud](https://soundcloud.com/kvnbbg), [Spotify](link), [Apple Music](link)  
 
-🇮🇹 🇵🇭 🇳🇱 🇬🇧 🇭🇷 🇱🇹 🇦🇺 🇵🇱 🇷🇴 🇳🇴 🇦🇱 🇸🇰 🇵🇹 🇫🇷
+---
+
+## Current Endeavors & Skills 🌟
+
+🔭 **Working on:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)  
+🌱 **Learning:** Python Frameworks, Shell scripting  
+👯 **Seeking collaboration:** AI integration in terminal systems ([Shell](https://github.com/Kvnbbg/ubiquitous-fishstick))  
+💬 **Talk to me about:** Programming, apps, tech, robots, or games!  
+⚡ **Fun Fact:** Yes, I'm human! 😄  
+
+---
+
+## GitHub Insights 📊
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
+
+---
+
+## Useful Links 🌐
+
+| Links             |                            |
+| ----------------- | -------------------------- |
+| All my links      | [Allmylinks 1](https://allmylinks.com/kvnbbg), [Allmylinks 2](https://allmylinks.com/kevin-marville) |
+| Code Newbie       | [Community](https://community.codenewbie.org/kvnbbg) |
+| GitHub Repository | [GitHub](https://github.com/Kvnbbg/) |
+
+🧩 **Hack The Box Academy Referral:**  
+[Referral Link](https://referral.hackthebox.com/mzw8H4V)  
+
+---
+
+Crafted by Kvnbbg Team 😘
