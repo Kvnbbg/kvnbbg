@@ -1,21 +1,18 @@
-# Hi! 👋 I'm K J - The Healthy Techie
+# Hi! 👋 I'm KJ
 
 **Location:** Martinique to France 📍, pursuing the Iron Man dream ⚙️  
- **Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🇺🇸 
+
+**Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🇺🇸 
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
 ---
 
-### LinkedIn
-[![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
-[![LinkedIn: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
-
----
-
 ## About Me
 
-Salut! I'm K J, short for Kevin Josue Marville. Since my childhood, I was fascinated to craft applications aiming to impact daily lives.
+Also know as K J, short for Kevin Josue Marville or more simply Kevin Marville. 
+
+Since my childhood, I was fascinated to craft applications aiming to impact daily lives.
 
 💻 **First Steps:** Started programming with "Add go to add" in Visual Basic, born from the island camaraderie. 
 
@@ -29,17 +26,26 @@ Salut! I'm K J, short for Kevin Josue Marville. Since my childhood, I was fascin
 
 ## Connect with Us 🤝
 
-📧 **Email:** kvnbbg@gmail.com (entertainment), kevinmarville@gmail.com (professional)
+**Email:** kvnbbg@gmail.com (entertainment), kevinmarville@gmail.com (professional)
 
-🎶 **Music:** [SoundCloud](https://soundcloud.com/kvnbbg), [Spotify](link), [Apple Music](link) 
+**Music:** [SoundCloud](https://soundcloud.com/kvnbbg), [Spotify](link), [Apple Music](link) 
 
-### YouTube for Live Stream if i dint use Twitch
+**Twitch**
+[![Twitch Followers](https://img.shields.io/twitch/followers/kvnbbg?style=social&logo=Twitch)](https://www.twitch.tv/kvnbbg)
+
+**Youtube:**
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
+**Hack The Box Academy Referral:**  
+[Referral Link](https://referral.hackthebox.com/mzw8H4V)  
+**LinkedIn**
+[![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
+[![LinkedIn: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
+
 ---
 
-## Current Endeavors & Skills 🌟
+## Currently 🌟
 
 🔭 **Working on:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)  
 
@@ -78,6 +84,3 @@ Salut! I'm K J, short for Kevin Josue Marville. Since my childhood, I was fascin
 | All my links      | [Allmylinks 1](https://allmylinks.com/kvnbbg), [Allmylinks 2](https://allmylinks.com/kevin-marville) |
 | Code Newbie       | [Community](https://community.codenewbie.org/kvnbbg) |
 | GitHub Repository | [GitHub](https://github.com/Kvnbbg/) |
-
-**Hack The Box Academy Referral:**  
-[Referral Link](https://referral.hackthebox.com/mzw8H4V)  
