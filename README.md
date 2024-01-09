@@ -1,17 +1,11 @@
 # Hi! 👋 I'm K J - The Healthy Techie
 
-**Location:** from the beautiful Martinique island to France 📍, pursuing the Iron Man dream ⚙️  
+**Location:** Martinique to France 📍, pursuing the Iron Man dream ⚙️  
  **Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🇺🇸 
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
 ---
-## Social Media Badges 📱
-[![Twitter Follow](https://img.shields.io/twitter/follow/techandstream?style=social)](https://twitter.com/techandstream)
-
-### YouTube
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
 ### LinkedIn
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
@@ -21,31 +15,41 @@
 
 ## About Me
 
-Salut! I'm K J, short for Kevin Josue Marville. Embracing technology since my childhood, I craft applications aiming to impact daily lives.
+Salut! I'm K J, short for Kevin Josue Marville. Since my childhood, I was fascinated to craft applications aiming to impact daily lives.
 
-💻 **First Steps:** Started programming with "Add go to add" in Visual Basic, born from the island camaraderie.  
-🔌 **Tech Origins:** Explored computing on ancient machines tangled in cables.  
-📚 **Education:** Focused on Cybersecurity studies in France, nestled in the Rhône-Alpes basin.
-🚀 **Dream:** To channel Iron Man's spirit by serving through impactful applications for everyone in need.
+💻 **First Steps:** Started programming with "Add go to add" in Visual Basic, born from the island camaraderie. 
+
+🔌 **Tech Origins:** Explored computing on ancient machines tangled in cables in my childhood. 
+
+📚 **Education:** Focused on Cybersecurity studies in France, nestled in the Rhône-Alpes basin. You have this detailled one on my LinkedIn.
+
 💡 **Passions:** Chess ♟️, card games 🎴, tech 💻, math ➕, and anything that fuels my curiosity! 
 
 ---
 
-## Connect with Me 🤝
+## Connect with Us 🤝
 
-🔗 **Socials:** [Twitter](https://twitter.com/techandstream), [LinkedIn](https://www.linkedin.com/in/kvnbbg/), [GitHub](https://github.com/kvnbbg)  
-📧 **Email:** kvnbbg@gmail.com (entertainment), kevinmarville@gmail.com (professional)  
-🎶 **Music:** [SoundCloud](https://soundcloud.com/kvnbbg), [Spotify](link), [Apple Music](link)  
+📧 **Email:** kvnbbg@gmail.com (entertainment), kevinmarville@gmail.com (professional)
+
+🎶 **Music:** [SoundCloud](https://soundcloud.com/kvnbbg), [Spotify](link), [Apple Music](link) 
+
+### YouTube for Live Stream if i dint use Twitch
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
 ---
 
 ## Current Endeavors & Skills 🌟
 
 🔭 **Working on:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)  
-🌱 **Learning:** Python Frameworks, Shell scripting  
+
+🌱 **Learning:** Python Frameworks, Shell scripting, front end and back end development
+
 👯 **Seeking collaboration:** AI integration in terminal systems ([Shell](https://github.com/Kvnbbg/ubiquitous-fishstick))  
-💬 **Talk to me about:** Programming, apps, tech, robots, or games!  
-⚡ **Fun Fact:** Yes, I'm human! 😄  
+
+💬 **Talk to me about:** Programming, apps, tech, robots, or games! 
+
+⚡ **Fun Fact:** I like the history and the origin of the computer and internet 😄  
 
 ---
 
