@@ -1,8 +1,7 @@
-# Greetings! I'm K J - The Tech Explorer! 👋🚀
+# Hi! 👋 I'm K J - The Healthy Techie
 
-📍 **Location:** Transitioned from the beautiful Martinique archipelago to France, pursuing the Iron Man dream in the tech world 💻⚙️  
-🇫🇷 **Languages:** Fluent in French, but prefer conversing in English 🗣️  
-💡 **Passions:** Chess ♟️, card games 🎴, tech 💻, math ➕, and anything that fuels my curiosity! 
+**Location:** from the beautiful Martinique island to France 📍, pursuing the Iron Man dream ⚙️  
+ **Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🇺🇸 
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
@@ -14,14 +13,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 
-### SoundCloud
-[![SoundCloud Followers](https://img.shields.io/soundcloud/followers/285057726?style=social)](https://soundcloud.com/kvnbbg)
-[![SoundCloud Plays](https://img.shields.io/soundcloud/plays/285057726?style=social)](https://soundcloud.com/kvnbbg)
-
 ### LinkedIn
 [![LinkedIn Follow](https://img.shields.io/badge/-Follow-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
 [![LinkedIn: kvnbbg](https://img.shields.io/badge/-kvnbbg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kvnbbg/)](https://www.linkedin.com/in/kvnbbg/)
-
 
 ---
 
@@ -31,8 +25,9 @@ Salut! I'm K J, short for Kevin Josue Marville. Embracing technology since my ch
 
 💻 **First Steps:** Started programming with "Add go to add" in Visual Basic, born from the island camaraderie.  
 🔌 **Tech Origins:** Explored computing on ancient machines tangled in cables.  
-📚 **Education:** Focused on Cybersecurity studies in France, nestled in the Rhône-Alpes basin.  
-🚀 **Dream:** To channel Iron Man's spirit by serving through impactful applications.
+📚 **Education:** Focused on Cybersecurity studies in France, nestled in the Rhône-Alpes basin.
+🚀 **Dream:** To channel Iron Man's spirit by serving through impactful applications for everyone in need.
+💡 **Passions:** Chess ♟️, card games 🎴, tech 💻, math ➕, and anything that fuels my curiosity! 
 
 ---
 
@@ -80,9 +75,5 @@ Salut! I'm K J, short for Kevin Josue Marville. Embracing technology since my ch
 | Code Newbie       | [Community](https://community.codenewbie.org/kvnbbg) |
 | GitHub Repository | [GitHub](https://github.com/Kvnbbg/) |
 
-🧩 **Hack The Box Academy Referral:**  
+**Hack The Box Academy Referral:**  
 [Referral Link](https://referral.hackthebox.com/mzw8H4V)  
-
----
-
-Crafted by Kvnbbg Team 😘
