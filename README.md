@@ -1,8 +1,8 @@
 # Hi! 👋 I'm KJ
 
-**Location:** Martinique to France 📍, pursuing the Iron Man dream ⚙️  
+**Location:** France, pursuing the Iron Man dream ⚙️  
 
-**Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🇺🇸 
+**Languages:** Fluent in French 🇫🇷 , but prefer conversing in English 🍀🇬🇧 🇺🇸 
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
