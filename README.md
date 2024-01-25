@@ -1,7 +1,7 @@
 
 # Kevin Marville - [...] Developer 👨‍💻
 
-**Location:** Rhône-Alpes, France  
+**Location:** France  
 **Languages:** Fluent in French 🇫🇷 and English 🇬🇧  
 **Portfolio:** [Portfolio](https://kvnbbg-creations.io)
 
