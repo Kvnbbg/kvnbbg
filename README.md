@@ -25,11 +25,20 @@ As a dedicated developer, I am on a journey to pursue the Iron Man dream 🌐. B
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
-- 🔭 **Working on:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
-- 🌱 **Learning:** Python and other programming languages!
-- 👯 **Seeking collaboration:** [AI integration in terminal systems](https://github.com/Kvnbbg/ubiquitous-fishstick)
-- 💬 **Talk to me about:** Python first, but I'm open to anything!
-- ⚡ **Fun Fact:** I read the biographies of Steve Jobs and Steve Wozniak!
+- 🔭 **Current Project:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
+  - Actively contributing to the development of [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention).
+
+- 🌱 **Learning Journey:**
+  - Focused on mastering Python and exploring other programming languages.
+
+- 👯 **Open to Collaboration:**
+  - Seeking opportunities to collaborate on [AI integration in terminal systems](https://github.com/Kvnbbg/ubiquitous-fishstick).
+
+- 💬 **Preferred Discussions:**
+  - Enthusiastic about discussing Python, but open to conversations on a wide range of topics.
+
+- ⚡ **Fun Fact:**
+  - I read the biographies of tech pioneers: Steve Jobs and Steve Wozniak.
 
 ---
 
@@ -63,7 +72,6 @@ As a dedicated developer, I am on a journey to pursue the Iron Man dream 🌐. B
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 [![Twitter Followers](https://img.shields.io/twitter/follow/techadnstream?style=social&logo=twitter)](https://twitter.com/techadnstream)
-
 
 ---
 
