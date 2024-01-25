@@ -9,7 +9,7 @@
 
 ## Hello, I'm Kevin! 👋
 
-As a dedicated developer, I am on a journey to pursue the Iron Man dream 🌐. Born on an island, known by various names like KJ, KJM, KM, Kvnbbg, Kevin Josue Marville, or **Kevin Marville**, my fascination with computer science began in childhood when I programmed my first application with friends. Our initial program, "Add go to add," ran on Windows XP with less than 2 GB RAM and 100 GB disk space, coded in Visual Basic for batch files.
+As a dedicated developer, I am on a journey to pursue the Iron Man dream 🌐. Born on an island, known by various names like KJ, /Kvnbbg, Kevin Josue Marville, or **Kevin Marville**, my fascination with computer science began in childhood when I programmed my first application with friends. Our initial program, "Add go to add," ran on Windows XP with less than 2 GB RAM and 100 GB disk space, coded in Visual Basic for batch files.
 
 ---
 
