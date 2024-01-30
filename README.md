@@ -1,5 +1,5 @@
 
-# Kevin Marville - [...] Developer 👨‍💻
+# Hello, I'm Kevin! 👋 
 
 **Location:** France  
 **Languages:** Fluent in French 🇫🇷 and English 🇬🇧  
@@ -7,11 +7,6 @@
 
 ---
 
-## Hello, I'm Kevin! 👋
-
-As a dedicated developer, I am on a journey to pursue the Iron Man dream 🌐.
-
----
 
 ## Things People Should Know About Me 💡
 
