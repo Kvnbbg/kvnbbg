@@ -10,9 +10,8 @@
 
 ## Things People Should Know About Me 💡
 
-- **Learning Focus in 2024:** Python, Computer Science, Mathematics, and Reading.
-- **Fun Fact:** I've read the biographies of both Steve Jobs and Steve Wozniak!
-- **GitHub Contributions:** Check out my stats below.
+- **I Prefer:** Python, Spaceship, Mystery of life and Reading.
+- **Fun Fact:** I like comedie film!
 
 ---
 
@@ -20,8 +19,8 @@
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
 
-- 🔭 **Current Project:** [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention)
-  - Actively contributing to the development of [bookish-octo-invention](https://github.com/kvnbbg/bookish-octo-invention).
+- 🔭 **Current Project:** 
+  - Actively contributing to the development of [au-garage](https://github.com/kvnbbg/au-garage).
 
 - 🌱 **Learning Journey:**
   - Focused on mastering Python and exploring other programming languages.
@@ -72,7 +71,4 @@
 
 ## My Other Links 
 
-- All my links: [Allmylinks 1](https://allmylinks.com/kvnbbg)
-- More links: [Allmylinks 2](https://allmylinks.com/kevin-marville)
 - Code Newbie Community: [Community](https://community.codenewbie.org/kvnbbg)
-- Hack the Box Referral Link: [Referral Link](https://referral.hackthebox.com/mzw8H4V)
