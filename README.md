@@ -56,15 +56,7 @@
 
 ## Connect 💻 
 
-- **My Email:** kevinmarville@gmail.com
-
-### My Entertainment channels:
-
-[![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-F16061?logo=ko-fi)](https://ko-fi.com/kvnbbg)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-%23FF3300?logo=soundcloud&logoColor=white)](https://soundcloud.com/kvnbbg)
-[![Twitch Followers](https://img.shields.io/twitch/followers/kvnbbg?style=social&logo=Twitch)](https://www.twitch.tv/kvnbbg)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC_x5XG1OV2P6uZZ5FSM9Ttw?style=social)](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
+- **My Email:** code@kvnbbg-creations.io
 [![Twitter Followers](https://img.shields.io/twitter/follow/techadnstream?style=social&logo=twitter)](https://twitter.com/techadnstream)
 
 ---
