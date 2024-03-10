@@ -7,13 +7,6 @@
 
 ---
 
-
-## Things People Should Know About Me 💡
-
-- **Fun Fact:** I like comedie film!
-
----
-
 ## Currently On 💡
 
 <a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
