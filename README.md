@@ -10,7 +10,6 @@
 
 ## Things People Should Know About Me 💡
 
-- **I Prefer:** Python, Spaceship, Mystery of life and Reading.
 - **Fun Fact:** I like comedie film!
 
 ---
