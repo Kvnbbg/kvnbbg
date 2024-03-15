@@ -24,7 +24,7 @@
   - Enthusiastic about discussing Python, but open to conversations on a wide range of topics.
 
 - ⚡ **Fun Fact:**
-  - I read the biographies of tech pioneers: Steve Jobs and Steve Wozniak.
+  - Ko-fi ! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7OO8TQ)
 
 ---
 
