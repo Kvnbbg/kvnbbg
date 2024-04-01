@@ -32,14 +32,18 @@
 ![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
 
 ---
+## My GitHub Badges 🛡️
 
-## Recognitions 🛡️
-
-![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)
+[![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
+[![Visits](https://badges.pufler.dev/visits/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![GitHub last commit](https://img.shields.io/github/last-commit/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![GitHub repo size](https://img.shields.io/github/repo-size/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
+[![GitHub issues](https://img.shields.io/github/issues/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/issues)
+[![GitHub stars](https://img.shields.io/github/stars/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/stargazers)
 
 ---
 
 ## Let's Connect 💻
 
 - **Email Me At:** [code@kvnbbg.fr](mailto:code@kvnbbg.fr)
-- **Twitter:** [![Follow me on Twitter](https://img.shields.io/twitter/follow/techandstream?style=social&logo=twitter)](https://twitter.com/
+- **Twitter:** [![Follow me on Twitter](https://img.shields.io/twitter/follow/techandstream?style=social&logo=twitter)](https://twitter.com/techandstream)
