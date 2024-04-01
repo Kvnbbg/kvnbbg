@@ -1,58 +1,45 @@
+# Hello, I'm Kevin! 👋
 
-# Hello, I'm Kevin! 👋 
+📰 **Breaking News!** - Check out my recent projects and deliveries:
+- [PDF-CV](https://github.com/Kvnbbg/pdf-cv): A dynamic CV generator from PDFs.
+- [Shiny Dollop](https://github.com/Kvnbbg/shiny-dollop): A data visualization tool.
+- [Au Garage](https://github.com/Kvnbbg/au-garage): An automotive service scheduler.
 
-**Location:** France  
-**Languages:** Fluent in French 🇫🇷 and English 🇬🇧  
-**Portfolio:** [Portfolio](https://kvnbbg-creations.io)
-
----
-
-## Currently On 💡
-
-<a href="https://app.daily.dev/kevinmarville"><img src="https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg" width="400" alt="Kevin Marville's Dev Card"/></a>
-
-- 🔭 **Current Project:** 
-  - Actively contributing to the development of [au-garage](https://github.com/kvnbbg/au-garage).
-
-- 🌱 **Learning Journey:**
-  - Focused on mastering Python and exploring other programming languages.
-
-- 👯 **Open to Collaboration:**
-  - Seeking opportunities to collaborate on [AI integration in terminal systems](https://github.com/Kvnbbg/ubiquitous-fishstick).
-
-- 💬 **Preferred Discussions:**
-  - Enthusiastic about discussing Python, but open to conversations on a wide range of topics.
-
-- ⚡ **Fun Fact:**
-  - Ko-fi ! [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S7OO8TQ)
+**Location:** France 🇫🇷  
+**Languages:** Fluent in French and English  
+**Portfolio:** [kvnbbg-creations.io](https://kvnbbg-creations.io)
 
 ---
 
-## My GitHub Insights 📊
+## What I'm Up To 💡
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
+[![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
 
----
+- 🔭 **I’m Currently Working On:**
+  - Enhancing AI-driven data analysis tools.
 
-## My GitHub Badges 🛡️
+- 🌱 **My Learning Journey:**
+  - Deep-diving into Python and full-stack development nuances.
 
-[![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
-[![Visits](https://badges.pufler.dev/visits/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
-[![GitHub last commit](https://img.shields.io/github/last-commit/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
-[![GitHub repo size](https://img.shields.io/github/repo-size/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention)
-[![GitHub issues](https://img.shields.io/github/issues/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/issues)
-[![GitHub stars](https://img.shields.io/github/stars/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/stargazers)
+- 👯 **Open for Collaboration:**
+  - Keen on AI and terminal system integration projects. [See an example](https://github.com/Kvnbbg/ubiquitous-fishstick).
 
 ---
 
-## Connect 💻 
+## GitHub Insights 📊
 
-- **My Email:** code@kvnbbg-creations.io
-[![Twitter Followers](https://img.shields.io/twitter/follow/techadnstream?style=social&logo=twitter)](https://twitter.com/techadnstream)
+![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
+![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
 
 ---
 
-## My Other Links 
+## Recognitions 🛡️
 
-- Code Newbie Community: [Community](https://community.codenewbie.org/kvnbbg)
+![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)
+
+---
+
+## Let's Connect 💻
+
+- **Email Me At:** [code@kvnbbg.fr](mailto:code@kvnbbg.fr)
+- **Twitter:** [![Follow me on Twitter](https://img.shields.io/twitter/follow/techandstream?style=social&logo=twitter)](https://twitter.com/
