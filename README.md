@@ -1,4 +1,4 @@
-# 📰 👋
+# READ ME 📰 WELL 👋
 
 **Location:** France 🇫🇷  
 **Languages:** Fluent in French and English  
@@ -9,15 +9,6 @@
 ## What I'm Up To 💡
 
 [![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
-
-- 🔭 **I’m Currently Working On:**
-  - Enhancing AI-driven data analysis tools.
-
-- 🌱 **My Learning Journey:**
-  - Deep-plunging into Python and full-stack development nuances.
-
-- 👯 **Open for Collaboration:**
-  - Keen on AI and terminal system integration projects.
 
 ---
 
