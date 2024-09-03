@@ -1,17 +1,9 @@
-# Hello, I'm Kevin! 👋
-
-📰 **Breaking News!** - Check out my recent projects and deliveries:
-- [PDF-CV](https://github.com/Kvnbbg/pdf-cv): A dynamic CV generator from PDFs.
-- [Shiny Dollop](https://github.com/Kvnbbg/shiny-dollop): A data visualization tool.
-- [ECF 2023-24](https://github.com/Kvnbbg/au-garage): An automotive service scheduler.
-- [ECF 2022-23](https://github.com/Kvnbbg/bookish-octo-invention): Empowering commerce with mobile inventory management.
-- 
-   ⬇️ Preview is below ⬇️
-  - [APP STORE](https://allmylinks.com/kevinmarville): My Store of ready to use applications.
+# 📰 👋
 
 **Location:** France 🇫🇷  
 **Languages:** Fluent in French and English  
 **Portfolio:** [kvnbbg-creations.io](https://kvnbbg-creations.io)
+**Blog:** [kvnbbg.fr](https://kvnbbg.fr)
 
 ---
 
