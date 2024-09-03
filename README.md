@@ -2,8 +2,7 @@
 
 **Location:** France 🇫🇷  
 **Languages:** Fluent in French and English  
-**Portfolio:** [kvnbbg-creations.io](https://kvnbbg-creations.io)
-**Blog:** [kvnbbg.fr](https://kvnbbg.fr)
+**Usefull links** [kvnbbg-creations.io](https://kvnbbg-creations.io) and [kvnbbg.fr](https://kvnbbg.fr)
 
 ---
 
@@ -15,10 +14,10 @@
   - Enhancing AI-driven data analysis tools.
 
 - 🌱 **My Learning Journey:**
-  - Deep-diving into Python and full-stack development nuances.
+  - Deep-plunging into Python and full-stack development nuances.
 
 - 👯 **Open for Collaboration:**
-  - Keen on AI and terminal system integration projects. [See an example](https://github.com/Kvnbbg/ubiquitous-fishstick).
+  - Keen on AI and terminal system integration projects.
 
 ---
 
@@ -37,9 +36,3 @@
 [![GitHub issues](https://img.shields.io/github/issues/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/issues)
 [![GitHub stars](https://img.shields.io/github/stars/kvnbbg/bookish-octo-invention)](https://github.com/kvnbbg/bookish-octo-invention/stargazers)
 
----
-
-## Let's Connect 💻
-
-- **Email Me At:** [code@kvnbbg.fr](mailto:code@kvnbbg.fr)
-- **X(Twitter):** [![Follow me on X](https://img.shields.io/twitter/follow/techandstream?style=social&logo=twitter)](https://twitter.com/techandstream)
