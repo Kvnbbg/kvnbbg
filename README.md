@@ -1,4 +1,4 @@
-# READ ME 📰 WELL 👋
+# READ ME 📰 
 
 **Location:** France 🇫🇷  
 **Languages:** Fluent in French and English  
