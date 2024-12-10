@@ -1,7 +1,7 @@
 # Welcome to My Developer Hub! 👨‍💻✨
 
 **Location:** France 🇫🇷  
-**Languages:** Fluent in French, Chinese, Japanese and English  
+**Languages:** Fluent in French and English  
 **Website:** [kvnbbg-creations.io](https://kvnbbg-creations.io) | [kvnbbg.fr](https://kvnbbg.fr)
 
 ---
