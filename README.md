@@ -1,8 +1,8 @@
 # Welcome to My Developer Hub! 👨‍💻✨
 
 **Location:** France 🇫🇷  
-**Languages:** Fluent in French and English  
-**Website:** [kvnbbg-creations.io](https://kvnbbg-creations.io) | [kvnbbg.fr](https://kvnbbg.fr)
+**Languages:** French, English, Chinese and Japanese
+**My Thoughts:** [kvnbbg-creations.io](https://kvnbbg-creations.io) | [kvnbbg.fr](https://kvnbbg.fr) | [mastodon](https://mastodon.social/@techandstream) | [threads](https://www.threads.net/@techandstream)
 
 ---
 
