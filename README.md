@@ -1,12 +1,14 @@
-# Welcome Coders 👨‍💻✨
+# À propos de moi 🤝
 
-**My Thoughts:** [kvnbbg-creations.io](https://kvnbbg-creations.io) | [kvnbbg.fr](https://kvnbbg.fr) | [mastodon](https://mastodon.social/@techandstream) | [threads](https://www.threads.net/@techandstream)
+Développeur web et mobile, je conçois et optimise des solutions numériques en m’appuyant sur des technologies libres, sécurisées et performantes. J’ai fondé et géré plusieurs plateformes, dont [kvnbbg.fr](https://kvnbbg.fr) et [kvnbbg-creations.io](https://kvnbbg-creations.io), où je publie mes projets, outils, scripts et réflexions sur l’innovation numérique.
 
----
+Mon parcours intègre aussi des travaux en cybersécurité (analyse de scripts, protection contre les malwares, et renforcement des systèmes) ainsi qu’en automatisation via API et développement backend. En 2025, je me suis engagé dans des intégrations avancées comme l’adaptation du CRM Siebel vers des infrastructures cloud.
 
-## About Me 🤝
+Parallèlement à mes activités techniques, je suis l’auteur du roman cyberpunk Merci Ruth 1, une œuvre de fiction engagée sur les thèmes de la survie, de la résilience et de l’intelligence artificielle. Je partage également des contenus pédagogiques sur les réseaux sociaux et je suis actif dans la vulgarisation technologique.
 
-I'm Kevin, a passionate developer that bridge technology, creativity, continuous learning, collaboration, and fun...
+Je suis aussi père de famille, investi dans la transmission de valeurs fortes : curiosité, autonomie, et responsabilité numérique.
+
+J’aime apprendre de nouvelles choses : je débute actuellement en chinois et en japonais, et je possède un niveau avancé en anglais.
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
 ![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
