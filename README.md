@@ -1,6 +1,27 @@
 # À propos de moi 🤝
 
-Je suis Kevin Marville, développeur web et mobile passionné par la création d'applications innovantes, sécurisées et performantes. J’utilise des technologies open-source pour concevoir des solutions qui allient design, fonctionnalité et expérience utilisateur optimale. J’ai fondé puis géré différentes plateformes, dont notamment: [kvnbbg-creations.io](https://kvnbbg-creations.io), avec [le repositorie](https://github.com/kvnbbg/personalportfolio), qui contient mes scripts; et [kvnbbg.fr](https://kvnbbg.fr) où je publie mes projets (CRM Wordpress PHP), mes analyses, mes réflexions et mes outils.
+# Kevin Marville
+
+**Développeur Web et Mobile**
+
+Passionné par la création d'applications **innovantes**, **sécurisées** et **performantes**, je m'engage à concevoir des solutions qui allient **design élégant**, **fonctionnalité robuste** et **expérience utilisateur optimale**.
+
+## Technologies Utilisées
+
+- **Open-Source** : Engagement envers les technologies open-source pour des solutions flexibles et évolutives.
+- **Design et Fonctionnalité** : Intégration harmonieuse du design et de la fonctionnalité pour une expérience utilisateur fluide.
+- **Performance et Sécurité** : Priorité à la performance et à la sécurité pour des applications fiables et sécurisées.
+
+## Objectif
+
+Mon objectif est de continuer à innover et à créer des applications qui répondent aux besoins des utilisateurs tout en offrant une expérience exceptionnelle.
+
+[Visitez mon portfolio](https://kvnbbg.fr) pour en savoir plus sur mes projets (CRM Wordpress PHP), mes analyses, mes réflexions et mes outils.
+
+## Création de différentes plateformes ✅
+- **Consultez [le dépôt](https://github.com/kvnbbg/personalportfolio) pour plus d'informations,**
+- Le live [portfolio](https://kvnbbg-creations.io).
+- Au Garage [Kvnbbg project platform auto](https://web-production-d728.up.railway.app/)
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
 ![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
