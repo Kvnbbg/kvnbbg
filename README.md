@@ -212,10 +212,8 @@ Découvrez mon portfolio d'outils et d'applications innovants :
 
 ## 🌟 Autres Statistiques et Liens
 
-<div align="center">
 [![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
 [![GitHub stars](https://img.shields.io/github/stars/kvnbbg)](https://github.com/kvnbbg/stargazers)
 [![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
-</div>
 
 
