@@ -1,239 +1,221 @@
-<h2 align="left">Hi 👋! My name is Kevin and I'm a web & mobile dev, from France</h2>
+# 👋 Salut ! Je suis Kevin, développeur web et mobile basé en France.
 
-###
+---
+
+## 📊 Statistiques GitHub
+
+Voici un aperçu de mon activité et de mes compétences sur GitHub :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvnbbg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvnbbg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/kvnbbg">
+    <img src="https://github-readme-stats.vercel.app/api?username=kvnbbg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=fr&hide_border=false" alt="Statistiques GitHub" style="width: 100%; max-width: 480px;" />
+  </a>
+  <a href="https://github.com/kvnbbg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvnbbg&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Langages les plus utilisés" style="width: 100%; max-width: 320px;" />
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTgyYTE0OTNid3p5amo1eW4zc2ZkNWtpMGRiZ2hqMTNlajBybmp3aTBrYXBpaDM4bCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jenIWU63oKK0o/giphy.gif"  />
+## 🛠️ Technologies et Outils
 
-###
-<div align="left"; width="auto"; display: flex;
-  align-items: center;
-  justify-content: center;>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="30" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" height="30" alt="msdos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="30" alt="polygon logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="30" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+Je travaille avec une variété de technologies et d'outils pour développer des solutions robustes et innovantes :
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="android logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="threejs logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuejs logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" alt="woocommerce logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="msdos logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" alt="polygon logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="heroku logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="google logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="firefox logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" alt="confluence logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="apache logo" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="amazonwebservices logo" width="40" height="40"/>
 </div>
 
-###
+---
 
-<div align="left">
+## 🔗 Connectons-nous !
+
+N'hésitez pas à me contacter via les plateformes suivantes :
+
+<div align="center">
   <a href="https://www.youtube.com/@kevinsretrogaming" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo" style="height: 35px;" />
   </a>
   <a href="https://www.instagram.com/techandstream/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" style="height: 35px;" />
   </a>
   <a href="https://www.twitch.tv/kvnbbg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" style="height: 35px;" />
   </a>
   <a href="https://discord.gg/VTSQM38uZT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" style="height: 35px;" />
   </a>
   <a href="https://allmylinks.com/kevinmarville" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="height: 35px;" />
   </a>
   <a href="https://linkedin.com/in/marvillekevin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" style="height: 35px;" />
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+## 🌟 Projets en Vedette
 
-<img src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/snake.svg" alt="Snake animation" />
+Découvrez mon portfolio d'outils et d'applications innovants :
 
-###
+### Web & Portfolio
+- **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog*  
+- **[Personal Portfolio](https://github.com/Kvnbbg/PersonalPortfolio)**: *Portfolio de développeur élégant*  
+- **[Underconstruction-Screen-Space-theme](https://github.com/Kvnbbg/Underconstruction-Screen-Space-theme)**: *Page de construction créative*  
+- **[underconstruction-screen](https://github.com/Kvnbbg/underconstruction-screen)**: *Écran de maintenance minimaliste*  
+- **[StreamSprout](https://github.com/Kvnbbg/StreamSprout)**: *Plateforme de streaming en direct*  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg">
-</picture>
+### IA & Automatisation
+- **[Tag Optimizer Pro](https://chatgpt.com/g/g-6833bf55bde08191b607f7a2b478741a-tag-optimizer-pro)**: *Optimisation de tags basée sur l'IA*  
+- **[SSH AI Chat](https://github.com/Kvnbbg/ssh-ai-chat)**: *Assistant de commande SSH basé sur l'IA*  
+- **[MCP Chatbot](https://github.com/Kvnbbg/mcp-chatbot)**: *Chatbot Oracle propulsé par Claude*  
+- **[xai-cookbook](https://github.com/Kvnbbg/xai-cookbook)**: *Recettes de développement IA*  
+- **[automq](https://github.com/Kvnbbg/automq)**: *Planificateur de tâches automatisé*  
 
-###
+### Cybersécurité
+- **[Cyber Dico](https://github.com/Kvnbbg/Dictionnaire_Cyber)**: *Dictionnaire de terminologie en cybersécurité*  
+- **[CyberSources](https://github.com/Kvnbbg/CyberSources)**: *Ressources en cybersécurité sélectionnées*  
+- **[awesome-mcp-security](https://github.com/Kvnbbg/awesome-mcp-security)**: *Bonnes pratiques de sécurité*  
+
+### Applications
+- **[Au Garage](https://github.com/Kvnbbg/au-garage)**: *Application de service automobile*  
+- **[Quizz](https://github.com/Kvnbbg/shiny-dollop)**: *Plateforme de quiz interactive*  
+- **[Cook](https://github.com/Kvnbbg/bookish-octo-invention)**: *Application de gestion de recettes*  
+- **[PDF CV](https://github.com/Kvnbbg/pdf-cv)**: *Générateur de CV dynamique*  
+- **[task-app](https://github.com/Kvnbbg/task-app)**: *Outil de gestion de tâches*  
+
+### Robotique & IoT
+- **[H-Bot The Tiny Humanoid](https://github.com/Kvnbbg/H-Bot-The-Tiny-Humanoid)**: *Contrôleur de robot humanoïde*  
+- **[servo](https://github.com/Kvnbbg/servo)**: *Contrôle de moteur servo*  
+
+### Gaming
+- **[fps-game-vinfinty](https://github.com/Kvnbbg/fps-game-vinfinty)**: *Jeu FPS rapide*  
+- **[VRGame](https://github.com/Kvnbbg/VRGame)**: *Expérience VR immersive*  
+
+### Musique
+- **[sonic-pi](https://github.com/Kvnbbg/sonic-pi)**: *Musique en live coding*  
+- **[sonic-pi-projects](https://github.com/Kvnbbg/sonic-pi-projects)**: *Projets musicaux créatifs*  
+
+### Web3
+- **[transaction-scheduler](https://github.com/Kvnbbg/transaction-scheduler)**: *Planificateur de transactions Blockchain*  
+
+### Oracle
+- **[ojdbc-extensions](https://github.com/Kvnbbg/ojdbc-extensions)**: *Améliorations Oracle JDBC*  
+
+### Linux
+- **[LinuxEnv](https://github.com/Kvnbbg/LinuxEnv)**: *Configuration d'environnement Linux*  
+
+### Flutter
+- **[flutter-fluid-tab](https://github.com/Kvnbbg/flutter-fluid-tab)**: *Navigation fluide par onglets*  
+- **[flutter_google_maps_3d_pins](https://github.com/Kvnbbg/flutter_google_maps_3d_pins)**: *Épingles de carte 3D*  
+
+### Apprentissage & Ressources
+- **[cheatsheets](https://github.com/Kvnbbg/cheatsheets)**: *Aides-mémoire pour développeurs*  
+- **[openplayground](https://github.com/Kvnbbg/openplayground)**: *Plateforme de pratique de codage*  
+- **[5minutes5vegans](https://github.com/Kvnbbg/5minutes5vegans)**: *Recettes végétaliennes rapides*  
+- **[freecodecamp](https://github.com/Kvnbbg/freecodecamp)**: *Tutoriels de codage*  
+- **[developer-roadmap](https://github.com/Kvnbbg/developer-roadmap)**: *Guide de carrière*  
+- **[OpenHands](https://github.com/Kvnbbg/OpenHands)**: *Collaboration open-source*  
+
+### Autres
+- **[DynamicRainSimulator2.0](https://github.com/Kvnbbg/DynamicRainSimulator2.0)**: *Outil de simulation de pluie*  
+- **[TurboZoo](https://github.com/Kvnbbg/TurboZoo)**: *Bibliothèque d'animation dynamique*  
+- **[sort-the-trash](https://github.com/Kvnbbg/sort-the-trash)**: *Jeu de tri des déchets*  
+- **[cookie-sess](https://github.com/Kvnbbg/cookie-sess)**: *Outil de gestion de session*  
+- **[InfiniVerse](https://github.com/Kvnbbg/InfiniVerse)**: *Plateforme de monde virtuel*  
+- **[Kvnbbg-Core-Financial-Suite-2023](https://github.com/Kvnbbg/Kvnbbg-Core-Financial-Suite-2023)**: *Suite de gestion financière*  
+- **[iwillbeback-screen](https://github.com/Kvnbbg/iwillbeback-screen)**: *Écran de chargement personnalisé*  
+- **[SaaS-Boilerplate](https://github.com/Kvnbbg/SaaS-Boilerplate)**: *Kit de démarrage SaaS*  
+- **[suivi-table-ronde](https://github.com/Kvnbbg/suivi-table-ronde)**: *Outil de suivi d'événements*  
+- **[mesh-fetch](https://github.com/Kvnbbg/mesh-fetch)**: *Bibliothèque de récupération de données*  
+- **[suna](https://github.com/Kvnbbg/suna)**: *Framework IA expérimental*  
+- **[docs](https://github.com/Kvnbbg/docs)**: *Collection de documentation*
+
+---
+
+## 📈 Plus de Statistiques GitHub
+
+<div align="center">
+  <a href="https://github.com/kvnbbg">
+    <img src="https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical" alt="Statistiques GitHub de Kevin" style="width: 100%; max-width: 480px;" />
+  </a>
+  <a href="https://github.com/kvnbbg">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact" alt="Langages principaux de Kevin" style="width: 100%; max-width: 320px;" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/kvnbbg">
+    <img src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/snake.svg" alt="Animation de serpent" style="width: 100%; max-width: 600px;" />
+  </a>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)\
+
+
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px;">
+  </picture>
+</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31nqxwlvvcaarhkofiivkbe6ztsa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nqxwlvvcaarhkofiivkbe6ztsa&count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nqxwlvvcaarhkofiivkbe6ztsa&count=5" alt="Spotify recently played" style="width: 100%; max-width: 480px;" />
   </a>
 </div>
 
 ---
 
-## 📊 Other GitHub Stats
+## 🌟 Autres Statistiques et Liens
 
-![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvnbbg&show_icons=true&theme=radical)
-![Kevin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact)
-[![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
-[![GitHub stars](https://img.shields.io/github/stars/kvnbbg)](https://github.com/kvnbbg/stargazers)
-[![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
+<div align="center">
+  [![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
+  [![GitHub stars](https://img.shields.io/github/stars/kvnbbg)](https://github.com/kvnbbg/stargazers)
+  [![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
+</div>
 
----
 
-## 🌟 Featured Projects
-
-Discover my portfolio of innovative tools and applications:
-
-### Web & Portfolio
-- **[Blog & Portfolio](https://kvnbbg.fr)**: *Personal showcase, blog*  
-- **[Personal Portfolio](https://github.com/Kvnbbg/PersonalPortfolio)**: *Sleek developer portfolio*  
-- **[Underconstruction-Screen-Space-theme](https://github.com/Kvnbbg/Underconstruction-Screen-Space-theme)**: *Creative under-construction page*  
-- **[underconstruction-screen](https://github.com/Kvnbbg/underconstruction-screen)**: *Minimal maintenance screen*  
-- **[StreamSprout](https://github.com/Kvnbbg/StreamSprout)**: *Live streaming platform*  
-
-### AI & Automation
-- **[Tag Optimizer Pro](https://chatgpt.com/g/g-6833bf55bde08191b607f7a2b478741a-tag-optimizer-pro)**: *AI-powered tag optimization*  
-- **[SSH AI Chat](https://github.com/Kvnbbg/ssh-ai-chat)**: *AI SSH command assistant*  
-- **[MCP Chatbot](https://github.com/Kvnbbg/mcp-chatbot)**: *Claude-powered Oracle chatbot*  
-- **[xai-cookbook](https://github.com/Kvnbbg/xai-cookbook)**: *AI development recipes*  
-- **[automq](https://github.com/Kvnbbg/automq)**: *Automated task scheduler*  
-
-### Cybersecurity
-- **[Cyber Dico](https://github.com/Kvnbbg/Dictionnaire_Cyber)**: *Cybersecurity terminology dictionary*  
-- **[CyberSources](https://github.com/Kvnbbg/CyberSources)**: *Curated cybersecurity resources*  
-- **[awesome-mcp-security](https://github.com/Kvnbbg/awesome-mcp-security)**: *Security best practices*  
-
-### Applications
-- **[Au Garage](https://github.com/Kvnbbg/au-garage)**: *Automotive service app*  
-- **[Quizz](https://github.com/Kvnbbg/shiny-dollop)**: *Interactive quiz platform*  
-- **[Cook](https://github.com/Kvnbbg/bookish-octo-invention)**: *Recipe management app*  
-- **[PDF CV](https://github.com/Kvnbbg/pdf-cv)**: *Dynamic CV generator*  
-- **[task-app](https://github.com/Kvnbbg/task-app)**: *Task management tool*  
-
-### Robotics & IoT
-- **[H-Bot The Tiny Humanoid](https://github.com/Kvnbbg/H-Bot-The-Tiny-Humanoid)**: *Humanoid robot controller*  
-- **[servo](https://github.com/Kvnbbg/servo)**: *Servo motor control*  
-
-### Gaming
-- **[fps-game-vinfinty](https://github.com/Kvnbbg/fps-game-vinfinty)**: *Fast-paced FPS game*  
-- **[VRGame](https://github.com/Kvnbbg/VRGame)**: *Immersive VR experience*  
-
-### Music
-- **[sonic-pi](https://github.com/Kvnbbg/sonic-pi)**: *Live coding music*  
-- **[sonic-pi-projects](https://github.com/Kvnbbg/sonic-pi-projects)**: *Creative music projects*  
-
-### Web3
-- **[transaction-scheduler](https://github.com/Kvnbbg/transaction-scheduler)**: *Blockchain transaction scheduler*  
-
-### Oracle
-- **[ojdbc-extensions](https://github.com/Kvnbbg/ojdbc-extensions)**: *Oracle JDBC enhancements*  
-
-### Linux
-- **[LinuxEnv](https://github.com/Kvnbbg/LinuxEnv)**: *Linux environment setup*  
-
-### Flutter
-- **[flutter-fluid-tab](https://github.com/Kvnbbg/flutter-fluid-tab)**: *Fluid tab navigation*  
-- **[flutter_google_maps_3d_pins](https://github.com/Kvnbbg/flutter_google_maps_3d_pins)**: *3D map pins*  
-
-### Learning & Resources
-- **[cheatsheets](https://github.com/Kvnbbg/cheatsheets)**: *Developer cheat sheets*  
-- **[openplayground](https://github.com/Kvnbbg/openplayground)**: *Coding practice platform*  
-- **[5minutes5vegans](https://github.com/Kvnbbg/5minutes5vegans)**: *Quick vegan recipes*  
-- **[freecodecamp](https://github.com/Kvnbbg/freecodecamp)**: *Coding tutorials*  
-- **[developer-roadmap](https://github.com/Kvnbbg/developer-roadmap)**: *Career path guide*  
-- **[OpenHands](https://github.com/Kvnbbg/OpenHands)**: *Open-source collaboration*  
-
-### Others
-- **[DynamicRainSimulator2.0](https://github.com/Kvnbbg/DynamicRainSimulator2.0)**: *Rain simulation tool*  
-- **[TurboZoo](https://github.com/Kvnbbg/TurboZoo)**: *Dynamic animation library*  
-- **[sort-the-trash](https://github.com/Kvnbbg/sort-the-trash)**: *Waste sorting game*  
-- **[cookie-sess](https://github.com/Kvnbbg/cookie-sess)**: *Session management tool*  
-- **[InfiniVerse](https://github.com/Kvnbbg/InfiniVerse)**: *Virtual world platform*  
-- **[Kvnbbg-Core-Financial-Suite-2023](https://github.com/Kvnbbg/Kvnbbg-Core-Financial-Suite-2023)**: *Financial management suite*  
-- **[iwillbeback-screen](https://github.com/Kvnbbg/iwillbeback-screen)**: *Custom loading screen*  
-- **[SaaS-Boilerplate](https://github.com/Kvnbbg/SaaS-Boilerplate)**: *SaaS starter kit*  
-- **[suivi-table-ronde](https://github.com/Kvnbbg/suivi-table-ronde)**: *Event tracking tool*  
-- **[mesh-fetch](https://github.com/Kvnbbg/mesh-fetch)**: *Data fetching library*  
-- **[suna](https://github.com/Kvnbbg/suna)**: *Experimental AI framework*  
-- **[docs](https://github.com/Kvnbbg/docs)**: *Documentation collection*
-
----
