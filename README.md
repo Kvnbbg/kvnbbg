@@ -12,8 +12,9 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTgyYTE0OTNid3p5amo1eW4zc2ZkNWtpMGRiZ2hqMTNlajBybmp3aTBrYXBpaDM4bCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/jenIWU63oKK0o/giphy.gif"  />
 
 ###
-
-<div align="left">
+<div align="left"; width="auto"; display: flex;
+  align-items: center;
+  justify-content: center;>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
