@@ -100,8 +100,8 @@ N'hésitez pas à me contacter via les plateformes suivantes :
 
 Découvrez mon portfolio d'outils et d'applications innovants :
 
-### Apocalyptic App Human in 2200 ?
-- **[La Taupe Bunker Life in progress](https://github.com/Kvnbbg/lataupe-bunker)**: *Scénario: Le processus de récupération de la couche d'ozone s'est arrêté, nous vivrons une vie souterraine comme des taupes, la technologie actuelle n'est pas à l'épreuve du temps pour 2100 et au-delà.*   
+### Neo-Apocalyptic App for Human in 2200 ?
+- **[La Taupe, Bunker Life & Tech in progress](https://github.com/Kvnbbg/lataupe-bunker-tech)**: *Scénario: Le processus de récupération de la couche d'ozone s'est arrêté, nous vivrons une vie souterraine comme des taupes, la technologie actuelle n'est pas à l'épreuve du temps pour 2100 et au-delà.*   
 
 ### Web & Portfolio
 - **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog*  
