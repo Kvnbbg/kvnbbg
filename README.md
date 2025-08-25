@@ -1,4 +1,4 @@
-# 👋 Salut ! Je suis Kevin, développeur web et mobile basé en France.
+# 👋 Salut ! Je suis Kevin, développeur web et mobile && +.
 
 ---
 
