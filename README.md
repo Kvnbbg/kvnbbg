@@ -1,10 +1,18 @@
-# 👋 Salut ! Je suis Kevin, développeur web et mobile && +.
+# 👋 Salut, moi c'est Kevin
+
+Développeur fullstack web & mobile, j'aide les équipes produit à transformer des idées en expériences robustes, scalables et agréables à utiliser. Entre architecture, UI/UX et déploiements cloud, j'aime apporter une vision bout-en-bout sur chaque projet.
+
+### 🚀 Domaines d'expertise
+- Conception d'applications web modernes (React, Vue, TypeScript)
+- Développement mobile hybride et natif (Flutter, Kotlin)
+- Plateformes backend et API (Node.js, Python, PHP)
+- Intégration DevOps & automatisation (Docker, CI/CD, Kubernetes)
 
 ---
 
 ## 📊 Statistiques GitHub
 
-Voici un aperçu de mon activité et de mes compétences sur GitHub :
+Un aperçu de mon activité open-source et de mes compétences :
 
 <div align="center">
   <a href="https://github.com/kvnbbg">
@@ -198,17 +206,9 @@ Découvrez mon portfolio d'outils et d'applications innovants :
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)\
-
-
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px;">
   </picture>
-</div>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31nqxwlvvcaarhkofiivkbe6ztsa">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nqxwlvvcaarhkofiivkbe6ztsa&count=5" alt="Spotify recently played" style="width: 100%; max-width: 480px;" />
-  </a>
 </div>
 
 ---
