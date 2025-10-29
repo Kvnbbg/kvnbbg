@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Kevin
+# 👋 Salut
 
 Développeur fullstack web & mobile, j'aide les équipes produit à transformer des idées en expériences robustes, scalables et agréables à utiliser. Entre architecture, UI/UX et déploiements cloud, j'aime apporter une vision bout-en-bout sur chaque projet.
 
@@ -7,7 +7,7 @@ Développeur fullstack web & mobile, j'aide les équipes produit à transformer 
 - Développement mobile hybride et natif (Flutter, Kotlin)
 - Plateformes backend et API (Node.js, Python, PHP)
 - Intégration DevOps & automatisation (Docker, CI/CD, Kubernetes)
-
+- Frameworks et base de données SQL et non-SQL
 ---
 
 ## 📊 Statistiques GitHub
@@ -108,7 +108,7 @@ N'hésitez pas à me contacter via les plateformes suivantes :
 
 Découvrez mon portfolio d'outils et d'applications innovants :
 
-### Neo-Apocalyptic App for Human in 2200 ?
+### Neo-Apocalyptic App for Human in 2200 ? (Game)
 - **[La Taupe, Bunker Life & Tech in progress](https://github.com/Kvnbbg/lataupe-bunker-tech)**: *Scénario: Le processus de récupération de la couche d'ozone s'est arrêté, nous vivrons une vie souterraine comme des taupes, la technologie actuelle n'est pas à l'épreuve du temps pour 2100 et au-delà.*   
 
 ### Web & Portfolio
@@ -195,20 +195,6 @@ Découvrez mon portfolio d'outils et d'applications innovants :
   <a href="https://github.com/kvnbbg">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact" alt="Langages principaux de Kevin" style="width: 100%; max-width: 320px;" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/kvnbbg">
-    <img src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/snake.svg" alt="Animation de serpent" style="width: 100%; max-width: 600px;" />
-  </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kvnbbg/kvnbbg/output/pacman-contribution-graph.svg" style="width: 100%; max-width: 600px;">
-  </picture>
 </div>
 
 ---
