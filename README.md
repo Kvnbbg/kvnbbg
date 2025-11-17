@@ -108,9 +108,6 @@ N'hésitez pas à me contacter via les plateformes suivantes :
 
 Découvrez mon portfolio d'outils et d'applications innovants :
 
-### Neo-Apocalyptic App for Human in 2200 ? (Game)
-- **[La Taupe, Bunker Life & Tech in progress](https://github.com/Kvnbbg/lataupe-bunker-tech)**: *Scénario: Le processus de récupération de la couche d'ozone s'est arrêté, nous vivrons une vie souterraine comme des taupes, la technologie actuelle n'est pas à l'épreuve du temps pour 2100 et au-delà.*   
-
 ### Web & Portfolio
 - **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog*  
 - **[Personal Portfolio](https://github.com/Kvnbbg/PersonalPortfolio)**: *Portfolio de développeur élégant*  
