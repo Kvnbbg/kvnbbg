@@ -2,12 +2,6 @@
 
 Développeur fullstack web & mobile, j'aide les équipes produit à transformer des idées en expériences robustes, scalables et agréables à utiliser. Entre architecture, UI/UX et déploiements cloud, j'aime apporter une vision bout-en-bout sur chaque projet.
 
-### 🚀 Domaines d'expertise
-- Conception d'applications web modernes (React, Vue, TypeScript)
-- Développement mobile hybride et natif (Flutter, Kotlin)
-- Plateformes backend et API (Node.js, Python, PHP)
-- Intégration DevOps & automatisation (Docker, CI/CD, Kubernetes)
-- Frameworks et base de données SQL et non-SQL
 ---
 
 ## 📊 Statistiques GitHub
@@ -106,80 +100,9 @@ N'hésitez pas à me contacter via les plateformes suivantes :
 
 ## 🌟 Projets en Vedette
 
-Découvrez mon portfolio d'outils et d'applications innovants :
+### WEB
 
-### Web & Portfolio
-- **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog*  
-- **[Personal Portfolio](https://github.com/Kvnbbg/PersonalPortfolio)**: *Portfolio de développeur élégant*  
-- **[Underconstruction-Screen-Space-theme](https://github.com/Kvnbbg/Underconstruction-Screen-Space-theme)**: *Page de construction créative*  
-- **[underconstruction-screen](https://github.com/Kvnbbg/underconstruction-screen)**: *Écran de maintenance minimaliste*  
-- **[StreamSprout](https://github.com/Kvnbbg/StreamSprout)**: *Plateforme de streaming en direct*  
-
-### IA & Automatisation
-- **[Tag Optimizer Pro](https://chatgpt.com/g/g-6833bf55bde08191b607f7a2b478741a-tag-optimizer-pro)**: *Optimisation de tags basée sur l'IA*  
-- **[SSH AI Chat](https://github.com/Kvnbbg/ssh-ai-chat)**: *Assistant de commande SSH basé sur l'IA*  
-- **[MCP Chatbot](https://github.com/Kvnbbg/mcp-chatbot)**: *Chatbot Oracle propulsé par Claude*  
-- **[xai-cookbook](https://github.com/Kvnbbg/xai-cookbook)**: *Recettes de développement IA*  
-- **[automq](https://github.com/Kvnbbg/automq)**: *Planificateur de tâches automatisé*  
-
-### Cybersécurité
-- **[Cyber Dico](https://github.com/Kvnbbg/Dictionnaire_Cyber)**: *Dictionnaire de terminologie en cybersécurité*  
-- **[CyberSources](https://github.com/Kvnbbg/CyberSources)**: *Ressources en cybersécurité sélectionnées*  
-- **[awesome-mcp-security](https://github.com/Kvnbbg/awesome-mcp-security)**: *Bonnes pratiques de sécurité*  
-
-### Applications
-- **[Au Garage](https://github.com/Kvnbbg/au-garage)**: *Application de service automobile*  
-- **[Quizz](https://github.com/Kvnbbg/shiny-dollop)**: *Plateforme de quiz interactive*  
-- **[Cook](https://github.com/Kvnbbg/bookish-octo-invention)**: *Application de gestion de recettes*  
-- **[PDF CV](https://github.com/Kvnbbg/pdf-cv)**: *Générateur de CV dynamique*  
-- **[task-app](https://github.com/Kvnbbg/task-app)**: *Outil de gestion de tâches*  
-
-### Robotique & IoT
-- **[H-Bot The Tiny Humanoid](https://github.com/Kvnbbg/H-Bot-The-Tiny-Humanoid)**: *Contrôleur de robot humanoïde*  
-- **[servo](https://github.com/Kvnbbg/servo)**: *Contrôle de moteur servo*  
-
-### Gaming
-- **[fps-game-vinfinty](https://github.com/Kvnbbg/fps-game-vinfinty)**: *Jeu FPS rapide*  
-- **[VRGame](https://github.com/Kvnbbg/VRGame)**: *Expérience VR immersive*  
-
-### Musique
-- **[sonic-pi](https://github.com/Kvnbbg/sonic-pi)**: *Musique en live coding*  
-- **[sonic-pi-projects](https://github.com/Kvnbbg/sonic-pi-projects)**: *Projets musicaux créatifs*  
-
-### Web3
-- **[transaction-scheduler](https://github.com/Kvnbbg/transaction-scheduler)**: *Planificateur de transactions Blockchain*  
-
-### Oracle
-- **[ojdbc-extensions](https://github.com/Kvnbbg/ojdbc-extensions)**: *Améliorations Oracle JDBC*  
-
-### Linux
-- **[LinuxEnv](https://github.com/Kvnbbg/LinuxEnv)**: *Configuration d'environnement Linux*  
-
-### Flutter
-- **[flutter-fluid-tab](https://github.com/Kvnbbg/flutter-fluid-tab)**: *Navigation fluide par onglets*  
-- **[flutter_google_maps_3d_pins](https://github.com/Kvnbbg/flutter_google_maps_3d_pins)**: *Épingles de carte 3D*  
-
-### Apprentissage & Ressources
-- **[cheatsheets](https://github.com/Kvnbbg/cheatsheets)**: *Aides-mémoire pour développeurs*  
-- **[openplayground](https://github.com/Kvnbbg/openplayground)**: *Plateforme de pratique de codage*  
-- **[5minutes5vegans](https://github.com/Kvnbbg/5minutes5vegans)**: *Recettes végétaliennes rapides*  
-- **[freecodecamp](https://github.com/Kvnbbg/freecodecamp)**: *Tutoriels de codage*  
-- **[developer-roadmap](https://github.com/Kvnbbg/developer-roadmap)**: *Guide de carrière*  
-- **[OpenHands](https://github.com/Kvnbbg/OpenHands)**: *Collaboration open-source*  
-
-### Autres
-- **[DynamicRainSimulator2.0](https://github.com/Kvnbbg/DynamicRainSimulator2.0)**: *Outil de simulation de pluie*  
-- **[TurboZoo](https://github.com/Kvnbbg/TurboZoo)**: *Bibliothèque d'animation dynamique*  
-- **[sort-the-trash](https://github.com/Kvnbbg/sort-the-trash)**: *Jeu de tri des déchets*  
-- **[cookie-sess](https://github.com/Kvnbbg/cookie-sess)**: *Outil de gestion de session*  
-- **[InfiniVerse](https://github.com/Kvnbbg/InfiniVerse)**: *Plateforme de monde virtuel*  
-- **[Kvnbbg-Core-Financial-Suite-2023](https://github.com/Kvnbbg/Kvnbbg-Core-Financial-Suite-2023)**: *Suite de gestion financière*  
-- **[iwillbeback-screen](https://github.com/Kvnbbg/iwillbeback-screen)**: *Écran de chargement personnalisé*  
-- **[SaaS-Boilerplate](https://github.com/Kvnbbg/SaaS-Boilerplate)**: *Kit de démarrage SaaS*  
-- **[suivi-table-ronde](https://github.com/Kvnbbg/suivi-table-ronde)**: *Outil de suivi d'événements*  
-- **[mesh-fetch](https://github.com/Kvnbbg/mesh-fetch)**: *Bibliothèque de récupération de données*  
-- **[suna](https://github.com/Kvnbbg/suna)**: *Framework IA expérimental*  
-- **[docs](https://github.com/Kvnbbg/docs)**: *Collection de documentation*
+- **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog, créations...*  
 
 ---
 
