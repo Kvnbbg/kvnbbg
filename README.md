@@ -19,9 +19,6 @@ Développeur fullstack web & mobile, j'aide les équipes produit à transformer 
   <a href="https://www.instagram.com/techandstream/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" style="height: 35px;" />
   </a>
-  <a href="https://www.twitch.tv/kvnbbg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" style="height: 35px;" />
-  </a>
   <a href="https://techandstream.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="height: 35px;" />
   </a>
