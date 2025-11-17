@@ -1,12 +1,37 @@
-# 👋 Salut
+# 👋 Bonjour
 
 Développeur fullstack web & mobile, j'aide les équipes produit à transformer des idées en expériences robustes, scalables et agréables à utiliser. Entre architecture, UI/UX et déploiements cloud, j'aime apporter une vision bout-en-bout sur chaque projet.
 
----
 
-## 📊 Statistiques GitHub
+## 🌟 Projets en Vedette
 
-Un aperçu de mon activité open-source et de mes compétences :
+### WEB
+
+- **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog, créations...*
+
+
+## 🔗 Connect !!!
+
+<div align="center">
+  <a href="https://www.youtube.com/@kevinsretrogaming" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo" style="height: 35px;" />
+  </a>
+  <a href="https://www.instagram.com/techandstream/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" style="height: 35px;" />
+  </a>
+  <a href="https://www.twitch.tv/kvnbbg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" style="height: 35px;" />
+  </a>
+  <a href="https://techandstream.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="height: 35px;" />
+  </a>
+  <a href="https://linkedin.com/in/marvillekevin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" style="height: 35px;" />
+  </a>
+</div>
+
+
+## 📊 Stats
 
 <div align="center">
   <a href="https://github.com/kvnbbg">
@@ -17,11 +42,8 @@ Un aperçu de mon activité open-source et de mes compétences :
   </a>
 </div>
 
----
 
-## 🛠️ Technologies et Outils
-
-Je travaille avec une variété de technologies et d'outils pour développer des solutions robustes et innovantes :
+## 🛠️ Technos
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/>
@@ -69,44 +91,8 @@ Je travaille avec une variété de technologies et d'outils pour développer des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="amazonwebservices logo" width="40" height="40"/>
 </div>
 
----
 
-## 🔗 Connectons-nous !
-
-N'hésitez pas à me contacter via les plateformes suivantes :
-
-<div align="center">
-  <a href="https://www.youtube.com/@kevinsretrogaming" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" alt="youtube logo" style="height: 35px;" />
-  </a>
-  <a href="https://www.instagram.com/techandstream/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo" style="height: 35px;" />
-  </a>
-  <a href="https://www.twitch.tv/kvnbbg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" alt="twitch logo" style="height: 35px;" />
-  </a>
-  <a href="https://discord.gg/VTSQM38uZT" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="discord logo" style="height: 35px;" />
-  </a>
-  <a href="https://allmylinks.com/kevinmarville" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="height: 35px;" />
-  </a>
-  <a href="https://linkedin.com/in/marvillekevin" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo" style="height: 35px;" />
-  </a>
-</div>
-
----
-
-## 🌟 Projets en Vedette
-
-### WEB
-
-- **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog, créations...*  
-
----
-
-## 📈 Plus de Statistiques GitHub
+## 📈 Plus de Stats !!
 
 <div align="center">
   <a href="https://github.com/kvnbbg">
@@ -116,10 +102,6 @@ N'hésitez pas à me contacter via les plateformes suivantes :
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvnbbg&layout=compact" alt="Langages principaux de Kevin" style="width: 100%; max-width: 320px;" />
   </a>
 </div>
-
----
-
-## 🌟 Autres Statistiques et Liens
 
 [![GitHub Followers](https://img.shields.io/github/followers/kvnbbg?label=Follow&style=social)](https://github.com/kvnbbg)
 [![GitHub stars](https://img.shields.io/github/stars/kvnbbg)](https://github.com/kvnbbg/stargazers)
