@@ -1,6 +1,17 @@
 # 👋 Bonjour
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=8BE9FD&center=true&vCenter=true&width=560&lines=Fullstack+Web+%26+Mobile+Developer;Product+%2B+UX-minded+Engineer;Architecture+%7C+UI%2FUX+%7C+Cloud+Delivery" alt="Typing animation" />
+</p>
+
 Développeur fullstack web & mobile, j'aide les équipes produit à transformer des idées en expériences robustes, scalables et agréables à utiliser. Entre architecture, UI/UX et déploiements cloud, j'aime apporter une vision bout-en-bout sur chaque projet.
+
+<p align="center">
+  <a href="https://kvnbbg.fr">Portfolio</a> •
+  <a href="https://github.com/kvnbbg">GitHub</a> •
+  <a href="https://linkedin.com/in/marvillekevin">LinkedIn</a> •
+  <a href="https://techandstream.com">Contact</a>
+</p>
 
 
 ## 🌟 Projets en Vedette
@@ -8,6 +19,13 @@ Développeur fullstack web & mobile, j'aide les équipes produit à transformer 
 ### WEB
 
 - **[Blog & Portfolio](https://kvnbbg.fr)**: *Vitrine personnelle, blog, créations...*
+
+<details>
+  <summary><strong>✨ Voir plus de projets</strong></summary>
+
+  - **[GitHub](https://github.com/kvnbbg)**: *Open-source, templates et outils.*
+  - **[Tech & Stream](https://techandstream.com)**: *Créations, contenus et médias.*
+</details>
 
 
 ## 🔗 Connect !!!
@@ -41,6 +59,15 @@ Développeur fullstack web & mobile, j'aide les équipes produit à transformer 
 
 
 ## 🛠️ Technos
+
+<details>
+  <summary><strong>🚀 Stack au quotidien</strong></summary>
+
+  - Frontend: React, Vue, TypeScript
+  - Backend: Node.js, Python, PHP
+  - Mobile: Flutter, Kotlin
+  - Infra: Docker, Kubernetes, AWS
+</details>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo" width="40" height="40"/>
@@ -104,4 +131,11 @@ Développeur fullstack web & mobile, j'aide les équipes produit à transformer 
 [![GitHub stars](https://img.shields.io/github/stars/kvnbbg)](https://github.com/kvnbbg/stargazers)
 [![Kevin's Dev Card](https://github.com/Kvnbbg/kvnbbg/blob/main/devcard.svg)](https://app.daily.dev/kevinmarville)
 
+<details>
+  <summary><strong>💡 Principes de delivery</strong></summary>
+
+  - **DRY**: composants réutilisables, sections modulaires.
+  - **SMART**: objectifs clairs, mesurables et orientés impact.
+  - **Ready-to-ship**: UI stable, lisible et adaptée au quotidien.
+</details>
 
