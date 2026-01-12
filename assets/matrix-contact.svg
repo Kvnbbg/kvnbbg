@@ -1,0 +1,55 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff9a" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#00c8ff" stop-opacity="0.85" />
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" />
+    </filter>
+    <style>
+      .matrix { font-family: "Fira Code", "Courier New", monospace; font-size: 16px; fill: #00ff9a; opacity: 0.55; }
+      .scan { animation: scan 5s linear infinite; }
+      .flicker { animation: flicker 1.8s infinite; }
+      .pulse { animation: pulse 2.6s ease-in-out infinite; }
+      @keyframes scan {
+        0% { transform: translateY(-60px); opacity: 0.1; }
+        25% { opacity: 0.45; }
+        50% { opacity: 0.9; }
+        75% { opacity: 0.35; }
+        100% { transform: translateY(80px); opacity: 0.1; }
+      }
+      @keyframes flicker {
+        0%, 100% { opacity: 0.7; }
+        40% { opacity: 0.35; }
+        60% { opacity: 0.9; }
+      }
+      @keyframes pulse {
+        0%, 100% { filter: drop-shadow(0 0 6px rgba(0,255,154,0.6)); }
+        50% { filter: drop-shadow(0 0 16px rgba(0,255,154,0.95)); }
+      }
+    </style>
+  </defs>
+  <rect width="900" height="260" rx="16" fill="#050b0d" />
+  <rect x="20" y="20" width="860" height="220" rx="12" fill="#0b1518" stroke="#0f2924" stroke-width="2" />
+
+  <g class="scan">
+    <text x="40" y="60" class="matrix">101011 01001 110001 00101 101010 0101 1110 00101</text>
+    <text x="40" y="90" class="matrix">011001 10110 001101 10110 00011 11101 01010</text>
+    <text x="40" y="120" class="matrix">110010 01011 100110 00110 11100 01001 10101</text>
+    <text x="40" y="150" class="matrix">001011 11001 011001 11010 00101 10011 01001</text>
+    <text x="40" y="180" class="matrix">101001 01010 110101 00101 01010 11100 10101</text>
+    <text x="40" y="210" class="matrix">011010 00101 110010 10101 00110 11101 01010</text>
+  </g>
+
+  <rect x="80" y="90" width="740" height="80" rx="12" fill="#061214" stroke="#0f3d34" stroke-width="1.5" />
+  <text x="450" y="128" text-anchor="middle" font-size="22" font-family="Fira Code, Courier New, monospace" fill="url(#glow)" class="pulse">
+    contact@techandstream.com
+  </text>
+  <text x="450" y="156" text-anchor="middle" font-size="14" font-family="Fira Code, Courier New, monospace" fill="#8ef7c1" class="flicker">
+    Matrix channel open for freelance missions
+  </text>
+  <text x="450" y="198" text-anchor="middle" font-size="12" font-family="Fira Code, Courier New, monospace" fill="#5bd5a4">
+    Kevin Marville · Kvnbbg · Techandstream
+  </text>
+</svg>
