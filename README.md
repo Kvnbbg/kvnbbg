@@ -21,7 +21,7 @@
 
 ## 👋 About
 
-I’m **Kevin Marville**, also known as **Kvnbbg** in the open-source world, and **Techandstream** for commercial and freelance work. I design, build, and ship end-to-end digital products: reliable architectures, elegant UI/UX, and smooth cloud delivery — always with a **dry, smart, ready-to-ship** mindset.
+I’m **Kevin Marville**, also known as **Kvnbbg** in the open-source world, and **Techandstream** for commercial and freelance work. I design, build, and ship end-to-end digital products: reliable architectures, elegant UI/UX, and smooth cloud delivery — always with a **DRY, SMART, ready-to-ship** mindset.
 
 **Why teams work with me**
 - **Product clarity**: from idea to actionable roadmap and execution.
