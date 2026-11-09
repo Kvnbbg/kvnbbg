@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kvnbbg.fr">Portfolio</a> •
+  <a href="https://kvnbbg.github.io/PersonalPortfolio/">Portfolio</a> •
   <a href="https://github.com/kvnbbg">GitHub</a> •
   <a href="https://linkedin.com/in/marvillekevin">LinkedIn</a> •
   <a href="https://techandstream.com">Techandstream</a>
@@ -36,11 +36,19 @@ I’m **Kevin Josué Marville**, also known as **Kvnbbg** in the open-source wor
 - **3D/Interactive Experiences** (Three.js, motion design, immersive UI)
 - **Cloud Delivery** (Docker, Kubernetes, AWS, CI/CD)
 
+## 🧪 Engineering Proof of Work
+
+[Lire l'étude de cas DevOps et CI/CD](./docs/engineering-proof.md) · [Consulter la validation publique](./.github/workflows/engineering-proof.yml) · [Voir les exécutions publiques](https://github.com/Kvnbbg/kvnbbg/actions/workflows/engineering-proof.yml)
+
+Une étude de cas factuelle sur les contrôles d'accès SaaS, l'intégration Stripe, les builds Vercel et le diagnostic d'un incident GitHub Actions. **Statut privé : CI en échec et sous investigation au 9 novembre 2026** ; aucun badge vert ni résultat de tests supposé. Le dépôt SaaS reste privé et ne constitue pas une source inspectable par des recruteurs non autorisés.
+
+**Nouvelle démonstration inspectable :** [secure static release gate](./examples/static-release-gate/README.md) · [11 tests](./examples/static-release-gate/test_stage.py) · [exécution 11/11 réussie le 9 novembre 2026](https://github.com/Kvnbbg/kvnbbg/actions/runs/42577220093). Ces tests prouvent le fonctionnement de l'exemple public, pas du SaaS privé.
+
 ## 🌟 Featured Projects
 
 ### Open Source & Community
 - **[Kvnbbg GitHub](https://github.com/kvnbbg)** — templates, experiments, and dev tooling.
-- **[Blog & Portfolio](https://kvnbbg.fr)** — personal showcase and technical writing.
+- **[Portfolio](https://kvnbbg.github.io/PersonalPortfolio/)** — personal showcase and case studies.
 
 ### Commercial / Freelance (Techandstream)
 - **[Techandstream](https://techandstream.com)** — product engineering, creative media, and content-driven platforms.
