@@ -42,6 +42,8 @@ I’m **Kevin Josué Marville**, also known as **Kvnbbg** in the open-source wor
 
 Une étude de cas factuelle sur les contrôles d'accès SaaS, l'intégration Stripe, les builds Vercel et le diagnostic d'un incident GitHub Actions. **Statut privé : CI en échec et sous investigation au 9 novembre 2026** ; aucun badge vert ni résultat de tests supposé. Le dépôt SaaS reste privé et ne constitue pas une source inspectable par des recruteurs non autorisés.
 
+**Nouvelle démonstration inspectable :** [secure static release gate](./examples/static-release-gate/README.md) · [11 tests](./examples/static-release-gate/test_stage.py) · [exécution 11/11 réussie le 9 novembre 2026](https://github.com/Kvnbbg/kvnbbg/actions/runs/42577220093). Ces tests prouvent le fonctionnement de l'exemple public, pas du SaaS privé.
+
 ## 🌟 Featured Projects
 
 ### Open Source & Community
