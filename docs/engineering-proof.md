@@ -58,6 +58,21 @@ Inspect the workflow source and future run outcomes [here](https://github.com/Kv
 
 **Publicly verified run, 9 November 2026:** [GitHub Actions run 42568715441](https://github.com/Kvnbbg/kvnbbg/actions/runs/42568715441) finished **success**. Its visible steps — checkout, offline evidence/privacy contract, whitespace validation, and completion — all concluded successfully. This is a real **public documentation CI** result, **not** an assertion that the private SaaS tests or payment security gates passed.
 
+## Reproducible, public code and 11 executed tests
+
+A complementary [static-release-gate code sample](../examples/static-release-gate/README.md)
+demonstrates how to ship only explicitly approved files from an otherwise private
+working tree. The sample includes [source](../examples/static-release-gate/stage.py),
+[11 standard-library tests](../examples/static-release-gate/test_stage.py), and
+privacy controls for traversal, symlinks, credentials, oversized assets and
+stale outputs.
+
+**Verified public run, 9 November 2026:**
+[GitHub Actions 42577220093](https://github.com/Kvnbbg/kvnbbg/actions/runs/42577220093)
+completed **success**, including **11/11 public release-gate tests** and the
+documentary privacy contract. These passing tests apply only to the public
+example. They do **not** clear the private SaaS payment gates or quality checks.
+
 ## Acceptance criteria for a future green report
 
 - [ ] Workflows execute actual steps and publish readable logs.
