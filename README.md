@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kvnbbg.fr">Portfolio</a> •
+  <a href="https://kvnbbg.github.io/PersonalPortfolio/">Portfolio</a> •
   <a href="https://github.com/kvnbbg">GitHub</a> •
   <a href="https://linkedin.com/in/marvillekevin">LinkedIn</a> •
   <a href="https://techandstream.com">Techandstream</a>
@@ -46,7 +46,7 @@ Une étude de cas factuelle sur les contrôles d'accès SaaS, l'intégration Str
 
 ### Open Source & Community
 - **[Kvnbbg GitHub](https://github.com/kvnbbg)** — templates, experiments, and dev tooling.
-- **[Blog & Portfolio](https://kvnbbg.fr)** — personal showcase and technical writing.
+- **[Portfolio](https://kvnbbg.github.io/PersonalPortfolio/)** — personal showcase and case studies.
 
 ### Commercial / Freelance (Techandstream)
 - **[Techandstream](https://techandstream.com)** — product engineering, creative media, and content-driven platforms.
