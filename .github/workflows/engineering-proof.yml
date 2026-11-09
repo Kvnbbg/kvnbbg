@@ -7,11 +7,13 @@ on:
       - docs/engineering-proof.md
       - scripts/verify-proof.py
       - .github/workflows/engineering-proof.yml
+      - examples/static-release-gate/**
   pull_request:
     paths:
       - docs/engineering-proof.md
       - scripts/verify-proof.py
       - .github/workflows/engineering-proof.yml
+      - examples/static-release-gate/**
   workflow_dispatch:
 
 permissions:
@@ -33,5 +35,7 @@ jobs:
           persist-credentials: false
       - name: Run offline evidence/privacy contract
         run: python3 scripts/verify-proof.py
+      - name: Run reproducible public release-gate tests
+        run: python3 -m unittest discover -s examples/static-release-gate -p 'test_*.py' -v
       - name: Check whitespace and patch integrity
         run: git diff --check HEAD~1 HEAD || git diff --check
