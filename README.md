@@ -36,6 +36,12 @@ I’m **Kevin Josué Marville**, also known as **Kvnbbg** in the open-source wor
 - **3D/Interactive Experiences** (Three.js, motion design, immersive UI)
 - **Cloud Delivery** (Docker, Kubernetes, AWS, CI/CD)
 
+## 🧪 Engineering Proof of Work
+
+[Lire l'étude de cas DevOps et CI/CD](./docs/engineering-proof.md) · [Consulter la validation publique](./.github/workflows/engineering-proof.yml) · [Voir les exécutions publiques](https://github.com/Kvnbbg/kvnbbg/actions/workflows/engineering-proof.yml)
+
+Une étude de cas factuelle sur les contrôles d'accès SaaS, l'intégration Stripe, les builds Vercel et le diagnostic d'un incident GitHub Actions. **Statut privé : CI en échec et sous investigation au 9 novembre 2026** ; aucun badge vert ni résultat de tests supposé. Le dépôt SaaS reste privé et ne constitue pas une source inspectable par des recruteurs non autorisés.
+
 ## 🌟 Featured Projects
 
 ### Open Source & Community
