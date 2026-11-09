@@ -56,6 +56,8 @@ The repository has a lightweight [engineering-proof workflow](../.github/workflo
 
 Inspect the workflow source and future run outcomes [here](https://github.com/Kvnbbg/kvnbbg/actions/workflows/engineering-proof.yml). If it has not run or fails, its existence is source evidence, **not** execution success.
 
+**Publicly verified run, 9 November 2026:** [GitHub Actions run 42568715441](https://github.com/Kvnbbg/kvnbbg/actions/runs/42568715441) finished **success**. Its visible steps — checkout, offline evidence/privacy contract, whitespace validation, and completion — all concluded successfully. This is a real **public documentation CI** result, **not** an assertion that the private SaaS tests or payment security gates passed.
+
 ## Acceptance criteria for a future green report
 
 - [ ] Workflows execute actual steps and publish readable logs.
